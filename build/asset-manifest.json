@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-chess-app/static/css/main.31d6cfe0.css",
+    "main.js": "/react-chess-app/static/js/main.977e62a2.js",
+    "static/js/453.7f4c9ea6.chunk.js": "/react-chess-app/static/js/453.7f4c9ea6.chunk.js",
+    "index.html": "/react-chess-app/index.html",
+    "main.977e62a2.js.map": "/react-chess-app/static/js/main.977e62a2.js.map",
+    "453.7f4c9ea6.chunk.js.map": "/react-chess-app/static/js/453.7f4c9ea6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.977e62a2.js"
+  ]
+}
